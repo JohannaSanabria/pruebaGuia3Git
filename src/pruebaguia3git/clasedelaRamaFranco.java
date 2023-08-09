@@ -10,5 +10,8 @@ package pruebaguia3git;
  * @author Usuario
  */
 public class clasedelaRamaFranco {
+    public void prueba(){
     
+        System.out.println(" ");
+    }
 }
