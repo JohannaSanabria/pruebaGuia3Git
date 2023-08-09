@@ -13,4 +13,5 @@ public class cambios {
     
     String nombre;
     int numeroIntentos;
+    
 }
